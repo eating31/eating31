@@ -1,8 +1,5 @@
-## 簡介<br>
+## About me<br>
 
-日安，我是鍾依庭。就讀資管系，就是資工加管理然後我兩邊都學不好: )<br>
-普妹。最普的那種，希望有朝一日能當水美眉^_^<br>
-我是射手座是唐老師說最近水逆的那種。<br>
-生平無大志，只求沒有事。<br>
-喜歡旅遊，但常常過的了海關過不了心裡那關。因爲我常常會遇到旅遊爛事(;´༎ຶД༎ຶ`)（飛機delay三小時<br>
-這兩年花了很多時間在辯論社當爆肝工具人，總之興趣滿廣泛的～很開心認識大家<br>
+Bonjour, I’m Emma, a senior who majoring in Management Information System in National center University.
+To step outside my comfort zone, I studied French skill as a exchange student in Lyon, France, for a half year.
+During undergraduate study, I spent a lot of time developing website, becoming a self-control and high-demanded person. Present, I have started to learn backend in express and python.

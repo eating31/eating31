@@ -1,4 +1,4 @@
-## Bonjour! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Emma
+## Bonjour!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)   My name is Emma
 
 ### Full-Stack Web Developer
 I've three years of full-stack experience and one year of Azure DevOps experience. Familiar with Vue3, React, Tailwind CSS, Bootstrap, Express, PostgreSQL, Node.js, Python, Docker and more.
